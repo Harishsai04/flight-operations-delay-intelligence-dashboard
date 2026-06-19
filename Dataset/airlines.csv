@@ -1,0 +1,11 @@
+airline_code,airline_name,airline_type,fleet_size,avg_on_time_rate_pct,avg_delay_minutes,cancellation_rate_pct,hub_airports,customer_satisfaction_score
+AA,American Airlines,major,960,78.0,32,1.8,"DFW,MIA,CLT,PHL",3.6
+DL,Delta Air Lines,major,880,84.0,24,0.9,"ATL,DTW,MSP,JFK",4.2
+UA,United Airlines,major,790,79.0,30,1.5,"ORD,EWR,IAH,DEN,SFO",3.8
+WN,Southwest Airlines,lcc,770,76.0,28,2.1,"DAL,MDW,BWI",4.0
+B6,JetBlue Airways,lcc,290,73.0,38,2.2,"JFK,BOS,FLL",3.9
+AS,Alaska Airlines,major,330,82.0,26,1.2,"SEA,PDX,SFO",4.1
+NK,Spirit Airlines,ulcc,200,68.0,45,3.1,"FLL,MCO,LAS",2.8
+F9,Frontier Airlines,ulcc,120,70.0,42,2.8,"DEN,MCO",3.0
+G4,Allegiant Air,ulcc,110,71.0,40,2.5,"LAS,PIE",3.1
+HA,Hawaiian Airlines,regional,60,85.0,22,0.8,"HNL,OGG",4.4
